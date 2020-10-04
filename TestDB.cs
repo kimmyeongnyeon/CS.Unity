@@ -17,7 +17,7 @@ public class TestDB: MonoBehaviour
     //public Text text2;
     //public Text text3;
 
-
+        // test
 
     private void Awake()
     {
